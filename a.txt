@@ -1,9 +1,9 @@
 
 {
-"BannerAd":"false",
+"BannerAd":"true",
       "BannerKey":"ea7ff01c12c61a33",
       "InterstitialAd":"true",
-      "InterstitialKey":"0273a5adb1d1cb76",
+      "InterstitialKey":"38a6c54c90e39292",
       "InterstitialClick":"3",
       "RewardAd":"true",
       "RewardKey":"0273a5adb1d1cb76"}
