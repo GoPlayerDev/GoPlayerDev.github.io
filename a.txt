@@ -1,6 +1,6 @@
 
 {
-"BannerAd":"true",
+"BannerAd":"false",
       "BannerKey":"ea7ff01c12c61a33",
       "InterstitialAd":"true",
       "InterstitialKey":"0273a5adb1d1cb76",
