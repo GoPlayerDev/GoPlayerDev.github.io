@@ -5,6 +5,6 @@
       "InterstitialAd":"true",
       "InterstitialKey":"0273a5adb1d1cb76",
       "InterstitialClick":"5",
-      "RewardAd":"false",
-      "RewardKey":"0273a5adb1d1cb76"}
+      "RewardAd":"true",
+      "RewardKey":"38a6c54c90e39292"}
 
