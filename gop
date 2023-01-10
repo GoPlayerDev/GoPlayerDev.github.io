@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "loading_time": 2,
+  "privacy_policy": "https://sites.google.com/view/ytvplayers/ana-sayfa",
+  "ads": {
+    "id": 1,
+    "status": "true",
+    "network": "admob",
+    "interstitial_interval": 1,
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
+    "fan_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fan_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fan_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "applovin_banner": 0,
+    "applovin_interstitial": 0,
+    "applovin_native": 0
+  },
+  "onesignal": {
+    "id": 1,
+    "onesignal_id": "--"
+  },
+  "update": {
+    "id": 1,
+    "status": "false",
+    "app_id": "com.goplayer.videoplayer",
+    "version": 2.1
+  }
+}
